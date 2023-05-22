@@ -1,0 +1,15 @@
+/Users/rzvn332/Projects/HTTP-rzvn/HTTP-rzvn/bin/Debug/net7.0/HTTP-rzvn
+/Users/rzvn332/Projects/HTTP-rzvn/HTTP-rzvn/bin/Debug/net7.0/HTTP-rzvn.deps.json
+/Users/rzvn332/Projects/HTTP-rzvn/HTTP-rzvn/bin/Debug/net7.0/HTTP-rzvn.runtimeconfig.json
+/Users/rzvn332/Projects/HTTP-rzvn/HTTP-rzvn/bin/Debug/net7.0/HTTP-rzvn.dll
+/Users/rzvn332/Projects/HTTP-rzvn/HTTP-rzvn/bin/Debug/net7.0/HTTP-rzvn.pdb
+/Users/rzvn332/Projects/HTTP-rzvn/HTTP-rzvn/obj/Debug/net7.0/HTTP-rzvn.csproj.AssemblyReference.cache
+/Users/rzvn332/Projects/HTTP-rzvn/HTTP-rzvn/obj/Debug/net7.0/HTTP-rzvn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rzvn332/Projects/HTTP-rzvn/HTTP-rzvn/obj/Debug/net7.0/HTTP-rzvn.AssemblyInfoInputs.cache
+/Users/rzvn332/Projects/HTTP-rzvn/HTTP-rzvn/obj/Debug/net7.0/HTTP-rzvn.AssemblyInfo.cs
+/Users/rzvn332/Projects/HTTP-rzvn/HTTP-rzvn/obj/Debug/net7.0/HTTP-rzvn.csproj.CoreCompileInputs.cache
+/Users/rzvn332/Projects/HTTP-rzvn/HTTP-rzvn/obj/Debug/net7.0/HTTP-rzvn.dll
+/Users/rzvn332/Projects/HTTP-rzvn/HTTP-rzvn/obj/Debug/net7.0/refint/HTTP-rzvn.dll
+/Users/rzvn332/Projects/HTTP-rzvn/HTTP-rzvn/obj/Debug/net7.0/HTTP-rzvn.pdb
+/Users/rzvn332/Projects/HTTP-rzvn/HTTP-rzvn/obj/Debug/net7.0/HTTP-rzvn.genruntimeconfig.cache
+/Users/rzvn332/Projects/HTTP-rzvn/HTTP-rzvn/obj/Debug/net7.0/ref/HTTP-rzvn.dll
