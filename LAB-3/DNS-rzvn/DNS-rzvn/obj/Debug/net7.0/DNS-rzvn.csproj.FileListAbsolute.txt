@@ -1,0 +1,17 @@
+/Users/rzvn332/Projects/DNS-rzvn/DNS-rzvn/obj/Debug/net7.0/DNS-rzvn.csproj.AssemblyReference.cache
+/Users/rzvn332/Projects/DNS-rzvn/DNS-rzvn/obj/Debug/net7.0/DNS-rzvn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rzvn332/Projects/DNS-rzvn/DNS-rzvn/obj/Debug/net7.0/DNS-rzvn.AssemblyInfoInputs.cache
+/Users/rzvn332/Projects/DNS-rzvn/DNS-rzvn/obj/Debug/net7.0/DNS-rzvn.AssemblyInfo.cs
+/Users/rzvn332/Projects/DNS-rzvn/DNS-rzvn/obj/Debug/net7.0/DNS-rzvn.csproj.CoreCompileInputs.cache
+/Users/rzvn332/Projects/DNS-rzvn/DNS-rzvn/bin/Debug/net7.0/DNS-rzvn
+/Users/rzvn332/Projects/DNS-rzvn/DNS-rzvn/bin/Debug/net7.0/DNS-rzvn.deps.json
+/Users/rzvn332/Projects/DNS-rzvn/DNS-rzvn/bin/Debug/net7.0/DNS-rzvn.runtimeconfig.json
+/Users/rzvn332/Projects/DNS-rzvn/DNS-rzvn/bin/Debug/net7.0/DNS-rzvn.dll
+/Users/rzvn332/Projects/DNS-rzvn/DNS-rzvn/bin/Debug/net7.0/DNS-rzvn.pdb
+/Users/rzvn332/Projects/DNS-rzvn/DNS-rzvn/bin/Debug/net7.0/DnsClient.dll
+/Users/rzvn332/Projects/DNS-rzvn/DNS-rzvn/obj/Debug/net7.0/DNS-rzvn.csproj.CopyComplete
+/Users/rzvn332/Projects/DNS-rzvn/DNS-rzvn/obj/Debug/net7.0/DNS-rzvn.dll
+/Users/rzvn332/Projects/DNS-rzvn/DNS-rzvn/obj/Debug/net7.0/refint/DNS-rzvn.dll
+/Users/rzvn332/Projects/DNS-rzvn/DNS-rzvn/obj/Debug/net7.0/DNS-rzvn.pdb
+/Users/rzvn332/Projects/DNS-rzvn/DNS-rzvn/obj/Debug/net7.0/DNS-rzvn.genruntimeconfig.cache
+/Users/rzvn332/Projects/DNS-rzvn/DNS-rzvn/obj/Debug/net7.0/ref/DNS-rzvn.dll

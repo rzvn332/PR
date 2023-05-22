@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "t03A8rHSye8SiLFZmGiiJc4UlP1IKWWdGQC/0t1GFfSelzIAQh0dtl1QJhlClk1SJTL67O7+UV9M/Gl+0H/epA==",
+  "success": true,
+  "projectFilePath": "/Users/rzvn332/Projects/DNS-rzvn/DNS-rzvn/DNS-rzvn.csproj",
+  "expectedPackageFiles": [
+    "/Users/rzvn332/.nuget/packages/dnsclient/1.7.0/dnsclient.1.7.0.nupkg.sha512",
+    "/Users/rzvn332/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/Users/rzvn332/.nuget/packages/microsoft.win32.registry/5.0.0/microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "/Users/rzvn332/.nuget/packages/system.security.accesscontrol/5.0.0/system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "/Users/rzvn332/.nuget/packages/system.security.principal.windows/5.0.0/system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
