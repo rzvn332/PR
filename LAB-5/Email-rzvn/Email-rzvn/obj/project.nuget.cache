@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "+2m7gIOKTNnA5V/nD4gPAJsnmL/zL4wY3TOBTBuKAHtr0sNVl1TrTHJnt0xpRXQ7Lh6lNCCsciwlxROgaYWv4w==",
+  "success": true,
+  "projectFilePath": "/Users/rzvn332/Projects/Email-rzvn/Email-rzvn/Email-rzvn.csproj",
+  "expectedPackageFiles": [
+    "/Users/rzvn332/.nuget/packages/bouncycastle.cryptography/2.1.1/bouncycastle.cryptography.2.1.1.nupkg.sha512",
+    "/Users/rzvn332/.nuget/packages/mailkit/4.0.0/mailkit.4.0.0.nupkg.sha512",
+    "/Users/rzvn332/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.0/microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "/Users/rzvn332/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/rzvn332/.nuget/packages/mimekit/4.0.0/mimekit.4.0.0.nupkg.sha512",
+    "/Users/rzvn332/.nuget/packages/netcore.mailkit/2.1.0/netcore.mailkit.2.1.0.nupkg.sha512",
+    "/Users/rzvn332/.nuget/packages/openpop/2.0.6.1/openpop.2.0.6.1.nupkg.sha512",
+    "/Users/rzvn332/.nuget/packages/system.formats.asn1/6.0.0/system.formats.asn1.6.0.0.nupkg.sha512",
+    "/Users/rzvn332/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/rzvn332/.nuget/packages/system.security.cryptography.pkcs/6.0.2/system.security.cryptography.pkcs.6.0.2.nupkg.sha512",
+    "/Users/rzvn332/.nuget/packages/system.text.encoding.codepages/6.0.0/system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'OpenPop 2.0.6.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "OpenPop",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
